@@ -1,2 +1,4 @@
 This is the first file to test out git commits in my new_git
 _folder directory.
+
+It comes before all other files.
