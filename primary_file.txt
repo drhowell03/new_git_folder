@@ -1,6 +1,8 @@
 This is the first file to test out git commits in my new_git
 _folder directory.
 
-Just adding some filler cruft to test the ammend function.
+It comes before all other files.
+
+Misc. Edit to file.
 
 Edit to demo the diff function.
