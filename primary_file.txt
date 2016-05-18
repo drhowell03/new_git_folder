@@ -6,3 +6,5 @@ It comes before all other files.
 Misc. Edit to file.
 
 Edit to demo the diff function.
+
+Contact us- merge testing.
