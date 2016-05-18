@@ -7,4 +7,4 @@ Misc. Edit to file.
 
 Edit to demo the diff function.
 
-Contact us- merge testing.
+Contact us- merge testing. Now Testing Conflict (on text_edits branch).
